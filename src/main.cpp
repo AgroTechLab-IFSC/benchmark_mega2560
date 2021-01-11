@@ -61,6 +61,10 @@
 #include <Arduino.h>
 #include "benchmark.h"
 
+
+/*teste*/
+
+
 const uint8_t benchmark_mode = BENCHMARK_MODE_0;
 
 void setup() {

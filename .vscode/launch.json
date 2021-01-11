@@ -12,8 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "/home/robson/GDrive/workspaces/agrotechlab/toolbox/benchmark_mega2560/.pio/build/megaatmega2560/firmware.elf",
-            "toolchainBinDir": "/home/robson/.platformio/packages/toolchain-atmelavr/bin",
+            "executable": "c:/Users/rurez/Documents/AgroTechLab/Projetos/benchmark_mega2560/.pio/build/megaatmega2560/firmware.elf",
+            "projectEnvName": "megaatmega2560",
+            "toolchainBinDir": "C:/Users/rurez/.platformio/packages/toolchain-atmelavr/bin",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -24,8 +25,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "/home/robson/GDrive/workspaces/agrotechlab/toolbox/benchmark_mega2560/.pio/build/megaatmega2560/firmware.elf",
-            "toolchainBinDir": "/home/robson/.platformio/packages/toolchain-atmelavr/bin",
+            "executable": "c:/Users/rurez/Documents/AgroTechLab/Projetos/benchmark_mega2560/.pio/build/megaatmega2560/firmware.elf",
+            "projectEnvName": "megaatmega2560",
+            "toolchainBinDir": "C:/Users/rurez/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
