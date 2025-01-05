@@ -15,6 +15,6 @@
 
 **Benchmark for Arduino Mega 2560** is a IoT tool developed by <a href="https://agrotechlab.lages.ifsc.edu.br">AgroTechLab (*Technology Development Laboratory for Agribusiness*)</a> of <a href="https://www.ifsc.edu.br">IFSC (*Federal Institute of Santa Catarina*)</a>.
 
-It aims to get data about the energy consumption of Arduino Mega 2560 in different operation modes. It can be used in conjunction with a power consumption analysis tool such as <h href="https://github.com/AgroTechLab-IFSC/power_monitor">Power Monitor</a>.
+It aims to get data about the energy consumption of Arduino Mega 2560 in different operation modes. It can be used in conjunction with a power consumption analysis tool such as <a href="https://github.com/AgroTechLab-IFSC/power_monitor">Power Monitor</a>.
 
 More details can be found on the <a href="https://agrotechlab-ifsc.github.io/benchmark_mega2560">Benchmark Arduino Mega 2560 Documentation page</a>.
